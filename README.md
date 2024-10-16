@@ -22,7 +22,7 @@ View 'multiplication' function in below:<br>
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/multiplication"><img width="300" src="/images/dwplayground-button.png"></a>
 ## operators in Dataweave
 #### comparison operator in dataweave
-View 'greater thamn or equal to' in below:<br>
+View 'greater than or equal to' in below:<br>
 #### This operator is mainly used to check which is greater and equivalent to.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/operators"><img width="300" src="/images/dwplayground-button.png"></a>
 
