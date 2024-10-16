@@ -38,6 +38,6 @@ View 'equal to' in below:<br>
 # operators in Dataweave
 #### comparison operator in dataweave
 View 'and' in below:<br>
-#### This operator is mainly used to check both values are same.
+#### This operator is mainly used to check both values are same.If both values are same it returns rue otherwise it returns false.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/and operator"><img width="300" src="/images/dwplayground-button.png"></a>
 
