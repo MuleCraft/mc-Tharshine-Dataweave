@@ -30,4 +30,9 @@ View 'greater than or equal to' in below:<br>
 View 'less than or equal to' in below:<br>
 #### This operator is mainly used to check which is greater and equivalent to.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/Less than or equal to"><img width="300" src="/images/dwplayground-button.png"></a>
+## operators in Dataweave
+#### comparison operator in dataweave
+View 'equal to' in below:<br>
+#### This operator is mainly used to check both values are same.
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/equal to"><img width="300" src="/images/dwplayground-button.png"></a>
 
