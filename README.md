@@ -36,8 +36,14 @@ View 'equal to' in below:<br>
 #### This operator is mainly used to check both values are same.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/equal to"><img width="300" src="/images/dwplayground-button.png"></a>
 # operators in Dataweave
-#### comparison operator in dataweave
+#### logical operator in dataweave
 View 'and' in below:<br>
 #### This operator is mainly used to check both values are same.If both values are same it returns rue otherwise it returns false.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/and operator"><img width="300" src="/images/dwplayground-button.png"></a>
+# operators in Dataweave
+#### logical operator in dataweave
+View 'or' in below:<br>
+#### This operator is mainly used to check both values are same.If both values are same it returns rue otherwise it returns false.
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/or operator"><img width="300" src="/images/dwplayground-button.png"></a>
+
 
