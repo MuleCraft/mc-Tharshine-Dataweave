@@ -53,5 +53,5 @@ View 'greater than' in below:<br>
 #  operator in dataweave
 View 'less than' in below:<br>
 #### This operator is mainly used to check which of the values are lesser than two numbers returns true the condition is satisfied otherwise false
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/less than"><img width="300" src="/images/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/lesser than"><img width="300" src="/images/dwplayground-button.png"></a>
 
