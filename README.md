@@ -43,15 +43,15 @@ View 'and' in below:<br>
 # operators in Dataweave
 # logical operator in dataweave
 View 'or' in below:<br>
-This operator is mainly used to check both values are same.If either one of the condition is true then it is true otherwise it returns false.
+#### This operator is mainly used to check both values are same.If either one of the condition is true then it is true otherwise it returns false.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/or operator"><img width="300" src="/images/dwplayground-button.png"></a>
 
 #  operator in dataweave
 View 'greater than' in below:<br>
-This operator is mainly used to check which of the values are greater than two numbers returns true the condition is satisfied otherwise false
+#### This operator is mainly used to check which of the values are greater than two numbers returns true the condition is satisfied otherwise false
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/greater than"><img width="300" src="/images/dwplayground-button.png"></a>
 #  operator in dataweave
 View 'less than' in below:<br>
-This operator is mainly used to check which of the values are lesser than two numbers returns true the condition is satisfied otherwise false
+#### This operator is mainly used to check which of the values are lesser than two numbers returns true the condition is satisfied otherwise false
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/less than"><img width="300" src="/images/dwplayground-button.png"></a>
 
