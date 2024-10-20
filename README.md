@@ -41,17 +41,21 @@ View 'and' in below:<br>
 #### This operator is mainly used to check both values are same.If both values are same it returns rue otherwise it returns false.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/and operator"><img width="300" src="/images/dwplayground-button.png"></a>
 # operators in Dataweave
-# logical operator in dataweave
+##### logical operator in dataweave
 View 'or' in below:<br>
 #### This operator is mainly used to check both values are same.If either one of the condition is true then it is true otherwise it returns false.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/or operator"><img width="300" src="/images/dwplayground-button.png"></a>
 
-#  operator in dataweave
+####  operator in dataweave
 View 'greater than' in below:<br>
 #### This operator is mainly used to check which of the values are greater than two numbers returns true the condition is satisfied otherwise false
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/greater than"><img width="300" src="/images/dwplayground-button.png"></a>
-#  operator in dataweave
+####  operator in dataweave
 View 'less than' in below:<br>
 #### This operator is mainly used to check which of the values are lesser than two numbers returns true the condition is satisfied otherwise false
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/lesser than"><img width="300" src="/images/dwplayground-button.png"></a>
+#### Function in dataweave
+View 'variale declaration' in below:<br>
+#### This is mainly used to defined the variable and value assigned to that particular variable.
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/define variables"><img width="300" src="/images/dwplayground-button.png"></a>
 
