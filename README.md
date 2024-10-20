@@ -1,21 +1,20 @@
 
 
 # mc-Tharshine-Dataweave
-## Functions in Dataweave
+#### Functions in Dataweave
 #### Introduction of basic functionalities in dataweave
 View 'division' function in below:<br>
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/division"><img width="300" src="/images/dwplayground-button.png"></a>
-# mc-Tharshine-Dataweave
 ## Functions in Dataweave
 #### Introduction of basic functionalities in dataweave
 View 'addition' function in below:<br>
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/addition"><img width="300" src="/images/dwplayground-button.png"></a>
-# mc-Tharshine-Dataweave
+#### mc-Tharshine-Dataweave
 ## Functions in Dataweave
 #### Introduction of basic functionalities in dataweave
 View 'subtraction' function in below:<br>
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/subtraction"><img width="300" src="/images/dwplayground-button.png"></a>
- mc-Tharshine-Dataweave
+
 ## Functions in Dataweave
 #### Introduction of basic functionalities in dataweave
 View 'multiplication' function in below:<br>
@@ -58,4 +57,9 @@ View 'less than' in below:<br>
 View 'variale declaration' in below:<br>
 #### This is mainly used to defined the variable and value assigned to that particular variable.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/define variables"><img width="300" src="/images/dwplayground-button.png"></a>
+#### Function in dataweave
+View 'concat' in below:<br>
+#### This is mainly used to concat two strings.
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/concat"><img width="300" src="/images/dwplayground-button.png"></a>
+
 
