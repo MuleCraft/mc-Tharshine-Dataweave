@@ -60,6 +60,6 @@ View 'variale declaration' in below:<br>
 #### Function in dataweave
 View 'concat' in below:<br>
 #### This is mainly used to concat two strings.
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/concat"><img width="300" src="/images/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/concat function"><img width="300" src="/images/dwplayground-button.png"></a>
 
 
