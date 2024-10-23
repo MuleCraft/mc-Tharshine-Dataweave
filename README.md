@@ -73,6 +73,9 @@ View 'lower' in below:<br>
 View 'length of string' in below:<br>
 #### This is mainly used to find the length of the strings.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/length of string"><img width="300" src="/images/dwplayground-button.png"></a>
-
+#### Function in dataweave
+View 'remove whitespaces' in below:<br>
+#### This is mainly used  to remove the whitespaces in start and end of the strings.
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/remove whitespace"><img width="300" src="/images/dwplayground-button.png"></a>
 
 
