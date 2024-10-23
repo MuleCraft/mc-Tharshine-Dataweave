@@ -69,6 +69,10 @@ View 'upper' in below:<br>
 View 'lower' in below:<br>
 #### This is mainly used to convert  uppercase to lowercase strings.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/lowercase"><img width="300" src="/images/dwplayground-button.png"></a>
+#### Function in dataweave
+View 'length of string' in below:<br>
+#### This is mainly used to find the length of the strings.
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/length of string"><img width="300" src="/images/dwplayground-button.png"></a>
 
 
 
