@@ -79,7 +79,7 @@ View 'remove whitespaces' in below:<br>
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/remove whitespace"><img width="300" src="/images/dwplayground-button.png"></a>
 #### Function in dataweave
 View 'starts with' in below:<br>
-#### This is mainly used  to remove the whitespaces in start and end of the strings.
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/starts with"><img width="300" src="/images/dwplayground-button.png"></a>
+#### This is mainly used  check whether the string start  with the particular  strings.
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/startswith"><img width="300" src="/images/dwplayground-button.png"></a>
 
 
