@@ -61,5 +61,10 @@ View 'variale declaration' in below:<br>
 View 'concat' in below:<br>
 #### This is mainly used to concat two strings.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/concat function"><img width="300" src="/images/dwplayground-button.png"></a>
+#### Function in dataweave
+View 'upper' in below:<br>
+#### This is mainly used to concat two strings.
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/uppercase"><img width="300" src="/images/dwplayground-button.png"></a>
+
 
 
