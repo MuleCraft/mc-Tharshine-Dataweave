@@ -63,8 +63,12 @@ View 'concat' in below:<br>
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/concat function"><img width="300" src="/images/dwplayground-button.png"></a>
 #### Function in dataweave
 View 'upper' in below:<br>
-#### This is mainly used to concat two strings.
+#### This is mainly used to convert lowercase to uppercase strings.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/uppercase"><img width="300" src="/images/dwplayground-button.png"></a>
+#### Function in dataweave
+View 'lower' in below:<br>
+#### This is mainly used to convert  uppercase to lowercase strings.
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/lowercase"><img width="300" src="/images/dwplayground-button.png"></a>
 
 
 
