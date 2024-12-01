@@ -4,7 +4,7 @@
 #### Functions in Dataweave
 #### Introduction of basic functionalities in dataweave
 View 'division' function in below:<br>
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Tharshine-Dataweave&path=functions/division"><img width="300" src="/images/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Tharshine-Dataweave&path=functions/division"><img width="300" src="/images/dwplayground-button.png"></a>
 ## Functions in Dataweave
 #### Introduction of basic functionalities in dataweave
 View 'addition' function in below:<br>
