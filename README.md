@@ -85,6 +85,7 @@ View 'starts with' in below:<br>
 View 'filter in below:<br>
 #### This is mainly used to filtering the values based on the given condition.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Tharshine-Dataweave&path=functions/filter"><img width="300" src="/images/dwplayground-button.png"></a>
+#### Functions in Dataweave
 View 'max' in below:<br>
 #### This is mainly used print the maximum arrays.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Tharshine-Dataweave&path=functions/maximum"><img width="300" src="/images/dwplayground-button.png"></a>
