@@ -1,1 +1,17 @@
+{
+  "products": [
+    {
+    "id": 101,
+     "name": "Laptop",        "category": "Electronics", "price": 1200
+      },
+    { 
+        "id": 102, 
+        "name": "Shirt", "category": "Clothing", "price": 50 },
+    { "id": 103, "name": "TV", "category": "Electronics", "price": 800 }
+  ],
+  "discounts": [
+    { "category": "Electronics", "discount": 0.1 },
+    { "category": "Clothing", "discount": 0.2 }
+  ]
+}
 
