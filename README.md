@@ -83,6 +83,8 @@ View 'starts with' in below:<br>
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Tharshine-Dataweave&path=functions/startswith"><img width="300" src="/images/dwplayground-button.png"></a>
 #### Function in dataweave
 View 'filter in below:<br>
-#### This is mainly used  check whether the string start  with the particular  strings.
+#### This is mainly used to filtering the values based on the given condition.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Tharshine-Dataweave&path=functions/filter"><img width="300" src="/images/dwplayground-button.png"></a>
-
+View 'max' in below:<br>
+#### This is mainly used print the maximum arrays.
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Tharshine-Dataweave&path=functions/maximum"><img width="300" src="/images/dwplayground-button.png"></a>
