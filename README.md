@@ -89,3 +89,11 @@ View 'filter in below:<br>
 View 'max' in below:<br>
 #### This is mainly used print the maximum arrays.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Tharshine-Dataweave&path=functions/maximum"><img width="300" src="/images/dwplayground-button.png"></a>
+#### Functions in Dataweave
+View 'groupBy' in below:<br>
+#### It is a function that groups elements of an array or object by a specified key, returning an object where each key is a group and its value is the list of items in that group.
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Tharshine-Dataweave&path=functions/groupBy"><img width="300" src="/images/dwplayground-button.png"></a>
+#### Functions in Dataweave
+View 'orderBy' in below:<br>
+#### It is a function that sorts an array based on a specified key or expression, returning the array in ascending order by default.r object by a specified key, returning an object where each key is a group and its value is the list of items in that group.
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Tharshine-Dataweave&path=functions/orderBy"><img width="300" src="/images/dwplayground-button.png"></a>
