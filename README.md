@@ -97,3 +97,11 @@ View 'groupBy' in below:<br>
 View 'orderBy' in below:<br>
 #### It is a function that sorts an array based on a specified key or expression, returning the array in ascending order by default.r object by a specified key, returning an object where each key is a group and its value is the list of items in that group.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Tharshine-Dataweave&path=functions/orderBy"><img width="300" src="/images/dwplayground-button.png"></a>
+#### Functions in Dataweave
+View 'flatten' in below:<br>
+#### This is used to reduce the nesting level of an array by combining its sub-arrays into a single, flat array.
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Tharshine-Dataweave&path=functions/flatten"><img width="300" src="/images/dwplayground-button.png"></a>
+#### Functions in Dataweave
+View 'pluck' in below:<br>
+#### This is used to transform an object into an array of key-value pairs or to extract values from an object with custom logic.
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Tharshine-Dataweave&path=functions/pluck"><img width="300" src="/images/dwplayground-button.png"></a>
