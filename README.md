@@ -105,3 +105,7 @@ View 'flatten' in below:<br>
 View 'pluck' in below:<br>
 #### This is used to transform an object into an array of key-value pairs or to extract values from an object with custom logic.
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Tharshine-Dataweave&path=functions/pluck"><img width="300" src="/images/dwplayground-button.png"></a>
+#### Functions in Dataweave
+View 'splitBy' in below:<br>
+#### Splits a string into a string array based on a value that matches part of that string. It filters out the matching part from the returned array.
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Tharshine-Dataweave&path=functions/splitBy"><img width="300" src="/images/dwplayground-button.png"></a>
